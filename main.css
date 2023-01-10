@@ -1,4 +1,26 @@
-.color {
-background-color: red;
-color: black
+body{
+  background-color: antiquewhite;
+}
+
+h2 {
+  color: lightcoral;
+}
+
+article{
+  padding: 50px;
+}
+
+#articleOne {
+font-family: 'Courier New';
+border: 1px solid black;
+}
+
+#articleTwo{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  border: 5px dotted blue;
+}
+
+#articleThree{
+  font-family: 'Lucida Sans', 'Verdana';
+  border: 3px dashed orange;
 }
