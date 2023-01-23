@@ -1,26 +1,25 @@
 body{
-  background-color: antiquewhite;
+  padding: 5%;
+  background-color: rgb(240, 240, 240);
 }
 
 h2 {
-  color: lightcoral;
-}
-
-article{
-  padding: 50px;
+  font-size: 18px;
 }
 
 #articleOne {
-font-family: 'Courier New';
-border: 1px solid black;
+font-family: 'Times New Romans';
+padding: 0%;
+margin: 0%;
+
 }
 
 #articleTwo{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
-  border: 5px dotted blue;
+  font-family: 'Times New Romans';
+  
 }
 
 #articleThree{
-  font-family: 'Lucida Sans', 'Verdana';
-  border: 3px dashed orange;
+  font-family: 'Times New Romans';
+  
 }
